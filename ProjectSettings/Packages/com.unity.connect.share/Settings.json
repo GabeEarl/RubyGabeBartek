@@ -6,7 +6,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev/Build;C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev;C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev/RubyBuild;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/gabeb/UnityProjects/Build Proto 5;C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev/Build;C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev;C:/Users/gabeb/OneDrive/Desktop/Ivy Tech/Game Dev/RubyBuild;;;;;;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
